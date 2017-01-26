@@ -7,6 +7,6 @@ class General
 {
     static public function test()
     {
-        return 'test';
+        return 'testy';
     }
 }
